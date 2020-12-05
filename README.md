@@ -14,7 +14,7 @@ Follow the instructions given.
 
 After that,run the npm command in your terminal:
 
-`npm install`
+# npm install
 This command installs all the dependencies of the project. Now you can run the React project with this command:
 
 # npm start
