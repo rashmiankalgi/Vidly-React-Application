@@ -14,10 +14,10 @@ Follow the instructions given.
 
 After that,run the npm command in your terminal:
 
-`<addr>`npm install
+# npm install
 This command installs all the dependencies of the project. Now you can run the React project with this command:
 
-npm start
+# npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
