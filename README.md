@@ -1,12 +1,12 @@
 # Vidly-React-Application
 
-Vidly React Application
+
 This repository is an exercise from React course by Moshfegh Hamedani.
-App content
+# App content
 In this little project you can to find important JS topics like ES6 features and React features like Components, Pagination, Filtering and Sorting, Routing, Form, HTTP Request and more.
 
 
-How to run the project
+# How to run the project
 Vidly React App project needs to use a Vidly Node API created by Moshfegh Hamedani.
 https://github.com/mosh-hamedani/vidly-api-node
 
@@ -14,7 +14,7 @@ Follow the instructions given.
 
 After that,run the npm command in your terminal:
 
-npm install
+`<addr>`npm install
 This command installs all the dependencies of the project. Now you can run the React project with this command:
 
 npm start
